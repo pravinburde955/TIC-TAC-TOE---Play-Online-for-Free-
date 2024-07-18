@@ -94,10 +94,10 @@ html{
 }
 @media(max-width:468px){
     html{
-        font-size: 40%;
+        font-size: 39%;
     }
 }
-@media(max-width:375px){
+@media(max-width:368px){
     html{
         font-size: 30%;
     }
