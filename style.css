@@ -102,4 +102,8 @@ html{
         font-size: 30%;
     }
 }
-
+@media(max-width:268px){
+    html{
+        font-size: 25%;
+    }
+}
